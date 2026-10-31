@@ -1,0 +1,14 @@
+wbrules/notify_webhook_options_test.mjs
+  h_e2b3b94f57d868 57-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "64ea349049d0f677554114e097e95829aebbc8fb",
+  "prompts": {},
+  "humans": {
+    "h_e2b3b94f57d868": {
+      "author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
