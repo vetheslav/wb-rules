@@ -1,0 +1,21 @@
+modules/wb-notify.js
+  s_b008dec24c1df0::t_a02bd959439e40 301,306-308,311
+wbrules/notify_webhook_options_test.mjs
+  s_b008dec24c1df0::t_9ad8b0c88217a2 1-7,9-10,51-53,57-59,69-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7d53c93b8ac95aa89a30a001ffcfdd66a1c4b11d",
+  "prompts": {},
+  "sessions": {
+    "s_b008dec24c1df0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a178fa-bb07-7f33-bed3-b6f71212a643",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
