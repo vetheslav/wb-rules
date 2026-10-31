@@ -1,0 +1,23 @@
+README.md
+  s_08c23293887786::t_9ddb27e9836be4 1223-1237
+modules/wb-notify.js
+  s_08c23293887786::t_a87dd69be21fc1 110,114-115,301-315,325-328,350-363
+wbrules/notify_webhook_options_test.js
+  s_08c23293887786::t_89d5850fdbd7a2 1-87
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fca2219520abd6ea1c6b87f854add27ab0eb80c3",
+  "prompts": {},
+  "sessions": {
+    "s_08c23293887786": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18682-b306-7093-85bc-fb53b98ba6d2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
