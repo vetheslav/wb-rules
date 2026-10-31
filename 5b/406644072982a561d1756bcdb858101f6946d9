@@ -1,0 +1,14 @@
+debian/changelog
+  h_e2b3b94f57d868 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5b406644072982a561d1756bcdb858101f6946d9",
+  "prompts": {},
+  "humans": {
+    "h_e2b3b94f57d868": {
+      "author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
