@@ -1,0 +1,25 @@
+debian/changelog
+  s_08c23293887786::t_41d6b0896baf0d 1,6-12
+wbrules/engine.go
+  s_08c23293887786::t_9e1a43911ccc3f 373-376
+wbrules/rule_controls_api_test.go
+  s_08c23293887786::t_55cffd1abac326 85-92
+wbrules/rule_meta_test.go
+  s_08c23293887786::t_78d8bc1b8c2636 30-36,52-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "962991e973bd7472a9d80bdfbc427fe34331a8bc",
+  "prompts": {},
+  "sessions": {
+    "s_08c23293887786": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18682-b306-7093-85bc-fb53b98ba6d2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Slava Shahoika <vistova@gmail.com>"
+    }
+  }
+}
